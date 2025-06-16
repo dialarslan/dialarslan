@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%" />
+
 
 ### أهلاً! أنا ديالا رسلان 👩‍💻
 مهندسة برمجيّات ومطوّرة مواقع ويب، أهوى بناء تجارب استخدام جميلة وعملية باستخدام أحدث التقنيات.
